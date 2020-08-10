@@ -1,0 +1,12 @@
+.center {
+  justify-content: center;
+  text-align: center;
+}
+
+fieldset {
+  border: 0;
+}
+
+.hide {
+  display: none;
+}
